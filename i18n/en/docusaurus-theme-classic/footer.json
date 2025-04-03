@@ -1,0 +1,34 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Important Links": {
+    "message": "Important Links",
+    "description": "The title of the footer links column with title=Important Links in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "The label of footer link with label=Tutorial linking to /docs/intro"
+  },
+  "link.item.label.Dashboard": {
+    "message": "Dashboard",
+    "description": "The label of footer link with label=Dashboard linking to https://app.easy-orders.net/"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://www.easy-orders.net/blog"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/easyorders"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Easy Orders",
+    "description": "The footer copyright"
+  }
+}

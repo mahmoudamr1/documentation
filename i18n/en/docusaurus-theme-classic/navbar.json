@@ -1,0 +1,18 @@
+{
+  "logo.alt": {
+    "message": "Easy Orders Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.الدروس": {
+    "message": "Tutorials",
+    "description": "Navbar item with label الدروس"
+  },
+  "item.label.easy orders": {
+    "message": "easy orders",
+    "description": "Navbar item with label easy orders"
+  },
+  "item.label.المدونه": {
+    "message": "Blog",
+    "description": "Navbar item with label المدونه"
+  }
+}

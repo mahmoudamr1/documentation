@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.البدء": {
+    "message": "Getting Started",
+    "description": "The label for category البدء in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.إدارة المتجر": {
+    "message": "Store Management",
+    "description": "The label for category إدارة المتجر in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.التسويق": {
+    "message": "Marketing",
+    "description": "The label for category التسويق in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.إدارة المنتجات": {
+    "message": "Product Management",
+    "description": "The label for category إدارة المنتجات in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.إدارة الطلبات": {
+    "message": "Order Management",
+    "description": "The label for category إدارة الطلبات in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.التعاملات الماليه والمحفظه": {
+    "message": "Financial Transactions & Wallet",
+    "description": "The label for category التعاملات الماليه والمحفظه in sidebar tutorialSidebar"
+  }
+}
